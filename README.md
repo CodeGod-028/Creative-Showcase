@@ -38,14 +38,40 @@ Creative Showcase is a full-stack web application that allows users to register,
 
 ### Backend
 
+backend/
+├── app/
+│   ├── main.py
+│   ├── auth.py
+│   ├── database.py
+│   ├── schemas.py
+│   ├── config.py
+│   └── __init__.py
+├── uploads/
+├── requirements.txt
+└── .env
 
 ### Frontend
 
+frontend/
+├── src/
+│   ├── api/
+│   │   └── api.js
+│   ├── pages/
+│   │   ├── Login.jsx
+│   │   ├── Register.jsx
+│   │   ├── Upload.jsx
+│   │   └── Gallery.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── public/
+├── package.json
+├── vite.config.js
+└── README.md
 
 ---
 
 ## Backend Setup
-
 
 1. Create a virtual environment
 ```bash
