@@ -37,7 +37,7 @@ Creative Showcase is a full-stack web application that allows users to register,
 ## Project Structure
 
 ### Backend
-
+<pre>
 backend/
 ├── app/
 │   ├── main.py
@@ -49,9 +49,9 @@ backend/
 ├── uploads/
 ├── requirements.txt
 └── .env
-
+</pre>
 ### Frontend
-
+<pre>
 frontend/
 ├── src/
 │   ├── api/
@@ -68,7 +68,7 @@ frontend/
 ├── package.json
 ├── vite.config.js
 └── README.md
-
+</pre>
 ---
 
 ## Backend Setup
