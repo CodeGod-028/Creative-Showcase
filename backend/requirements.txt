@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+python-jose
+passlib[argon2]
+python-dotenv
+email-validator
+python-multipart
